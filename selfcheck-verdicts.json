@@ -1,0 +1,14 @@
+{
+ "C1 two unclassifiable contest a key": {
+  "A_undetermined": 0.7,
+  "B_topofirst": 0.34
+ },
+ "C4 unrecognised string vs null": {
+  "A_lowest": 0.91,
+  "B_malformed": 0.07
+ },
+ "C5 two unclassifiable, one descends": {
+  "A_undetermined": 0.79,
+  "B_descendant": 0.86
+ }
+}
